@@ -1,0 +1,10 @@
+owl
+forest
+cow
+bmw
+paper
+bread
+tree
+facebook
+iqos
+ruby
